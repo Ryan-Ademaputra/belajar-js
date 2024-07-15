@@ -1,8 +1,7 @@
 'use strict';
 
-let user = {
-    nama: "Ryan Ademaputra",
-    umur: 18,
-    hobi: "main game"
-};
-console.log(user);
+const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+const string = ["upin", "ipin", "Mei-Mei", "Jarjit"];
+
+console.log(numbers[2])
